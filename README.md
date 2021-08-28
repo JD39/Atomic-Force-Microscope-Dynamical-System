@@ -8,3 +8,5 @@ El primer programa determina las función de potencial Lennard Jones considerada
 El segundo programa calcula las superficies de energía asociadas al modelo.
 
 El tercer programa determina el mapa de Poincare del sistema dinamico asociado al modelo.
+
+Para visualizar el Notebook se recomienda descargar el .ipynb y abrir en google colab. 
